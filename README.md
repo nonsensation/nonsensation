@@ -1,4 +1,8 @@
-### Hi there 👋
+:3li 🙂 nonsensation
+
+
+- 🎓Interested in compilers, 3D programming, algorithms and still learning
+- ⌨ programming in C# (best mix of tooling & ease of coding), occasionally C & C++, playing with Python, done projects in Java, interested in Zig, F#, D, Rust
 
 <!--
 **nonsensation/nonsensation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
