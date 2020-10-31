@@ -2,10 +2,10 @@
 <h3 align="center"></h3>
 
 - Interested in:
-    - Compilers
+    - Compilers & Interpreters
     - **3D** programming
-    - Algorithms
+    - Algorithms, Optimization Techniques
 - Programming in **C#** (best mix of tooling & ease of coding)
-    - occasionally **C** & **C++**, done projects in **Java**
-    - playing with **Python**
-    - want to learn in **Zig**, **F#**, **D**, **Rust**
+    - Occasionally **C** & **C++**, done projects in **Java**
+    - Playing with **Python**
+    - On my *want-to-learn-list*: **Zig**, **F#**, **D**, **Rust**
