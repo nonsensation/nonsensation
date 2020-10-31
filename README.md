@@ -11,3 +11,5 @@
     - Occasionally **C** & **C++**, done projects in **Java**
     - Playing with **Python**
     - On my *want-to-learn-list*: **Zig**, **F#**, **D**, **Rust**
+
+![](top.png)
